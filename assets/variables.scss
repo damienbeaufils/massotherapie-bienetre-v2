@@ -2,3 +2,11 @@
 //
 // The variables you want to modify
 // $font-size-root: 20px;
+$body-font-family: 'Lora', serif;
+
+.v-card__title {
+  word-break: normal;
+}
+.v-card__subtitle, .v-card__text {
+  font-size: 1rem;
+}

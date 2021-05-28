@@ -1,19 +1,31 @@
-import colors from 'vuetify/es5/util/colors'
-
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - massotherapie-bienetre-v2',
-    title: 'massotherapie-bienetre-v2',
+    htmlAttrs: {
+      lang: 'fr',
+    },
+    title: 'Virginie Dang - Massothérapeute',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          'Massothérapie et bien-être à Montréal, quartier Petite-Patrie. Prise de rendez-vous pour un massage Suédois de détente ou intramusculaire.',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    script: [
+      {
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-698X13KBMJ',
+        async: true,
+      },
+      { src: 'js/gtag.js' },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -31,6 +43,19 @@ export default {
     '@nuxt/typescript-build',
     // https://go.nuxtjs.dev/vuetify
     '@nuxtjs/vuetify',
+    // https://google-fonts.nuxtjs.org/
+    [
+      '@nuxtjs/google-fonts',
+      {
+        families: {
+          Lora: {
+            wght: [400, 500, 600, 700],
+            ital: [400, 500, 600, 700],
+          },
+          Parisienne: true,
+        },
+      },
+    ],
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -42,24 +67,20 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
-      lang: 'en',
+      lang: 'fr',
     },
   },
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
+    treeShake: true,
     theme: {
-      dark: true,
+      light: true,
       themes: {
-        dark: {
-          primary: colors.blue.darken2,
-          accent: colors.grey.darken3,
-          secondary: colors.amber.darken3,
-          info: colors.teal.lighten1,
-          warning: colors.amber.base,
-          error: colors.deepOrange.accent4,
-          success: colors.green.accent3,
+        light: {
+          'custom-color-pink': '#f8e5e5',
+          'custom-color-green': '#4d8591',
         },
       },
     },
