@@ -1,9 +1,18 @@
 <template>
   <v-row justify="center">
-    <v-col v-for="n in 2" :key="n" cols="6" sm="4">
+    <v-col cols="6" sm="4">
       <v-img
-        :src="`https://picsum.photos/500/300?image=${n * 5 + 10}`"
-        :lazy-src="`https://picsum.photos/10/6?image=${n * 5 + 10}`"
+        src="/img/virginie_dang_2.jpg"
+        alt=""
+        aspect-ratio="1"
+        class="rounded"
+      >
+      </v-img>
+    </v-col>
+    <v-col cols="6" sm="4">
+      <v-img
+        src="/img/virginie_dang_1.jpg"
+        alt=""
         aspect-ratio="1"
         class="rounded"
       >

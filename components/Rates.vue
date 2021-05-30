@@ -7,7 +7,7 @@
     </v-card-title>
     <v-card-text class="custom-color-green--text">
       <v-card flat class="mb-5">
-        <v-card-title class="custom-color-green--text justify-center">
+        <v-card-title class="custom-color-green--text justify-center mb-3">
           Massage de détente ou thérapeutique sur table
         </v-card-title>
         <v-card-subtitle class="custom-color-green--text text-center">

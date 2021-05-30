@@ -8,8 +8,11 @@
     <v-card-text>
       <v-row align="center" justify="center">
         <v-col cols="12" sm="4">
-          <v-avatar size="200">
-            <img src="img/virginie_dang.jpg" alt="Virginie Dang" />
+          <v-avatar size="200" class="mt-5 mt-sm-0">
+            <img
+              src="img/virginie_dang.jpg"
+              alt="Photo de profil de Virginie Dang"
+            />
           </v-avatar>
         </v-col>
 

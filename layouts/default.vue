@@ -4,7 +4,7 @@
     <v-main>
       <v-container>
         <v-row justify="center">
-          <v-col cols="12" xl="9">
+          <v-col cols="12" xl="8">
             <nuxt />
           </v-col>
         </v-row>

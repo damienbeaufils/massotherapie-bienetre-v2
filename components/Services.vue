@@ -16,9 +16,10 @@
             pression en utilisant les
             <span class="font-weight-bold">avant-bras</span>.
           </p>
-          <p class="font-weight-bold">
-            Je peux vous concocter le massage qui alliera les différentes
-            techniques en fonction de vos besoins !
+          <p>
+            Je vous concocterai un
+            <span class="font-weight-bold">massage sur-mesure</span> qui alliera
+            les différentes techniques en fonction de vos besoins !
           </p>
         </v-col>
 
@@ -40,10 +41,10 @@
                 <span class="font-weight-bold">assez stressé.e ?</span>
               </p>
               <p>
-                Ou bien, vous souhaitez tout simplement
+                Ou bien vous souhaitez tout simplement
                 <span class="font-weight-bold">prendre soin de vous</span>
-                juste le temps de 60, 75 ou 90 minutes ? Ce massage de détente
-                sur table est donc pour vous !
+                le temps de 60, 75 ou 90 minutes ? Ce massage de détente sur
+                table est donc pour vous !
               </p>
 
               <v-img
@@ -69,19 +70,20 @@
             </v-card-title>
             <v-card-text class="custom-color-green--text">
               <p>
-                Le saviez-vous ? L’aspect détente est important même en
-                thérapeutique afin d’<span class="font-weight-bold"
-                  >atteindre de manière plus efficace le muscle sous tension et
-                  le relâcher.</span
-                >
-              </p>
-              <p>
                 Vous ressentez des
                 <span class="font-weight-bold"
                   >douleurs musculaires et/ou articulaires</span
                 >
                 ou un <span class="font-weight-bold">inconfort</span>, ce
-                massage thérapeutique sur table est donc pour vous !
+                massage thérapeutique sur table est pour vous !
+              </p>
+              <p>
+                Une attention particulière sera portée sur le
+                <span class="font-weight-bold">segment douloureux</span>, grâce
+                à des
+                <span class="font-weight-bold"
+                  >techniques thérapeutiques plus profondes</span
+                >.
               </p>
               <v-img
                 src="img/toa-heftiba-hBLf2nvp-Yc-unsplash.jpg"
