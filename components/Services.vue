@@ -43,8 +43,8 @@
               <p>
                 Ou bien vous souhaitez tout simplement
                 <span class="font-weight-bold">prendre soin de vous</span>
-                le temps de 60, 75 ou 90 minutes ? Ce massage de détente sur
-                table est donc pour vous !
+                le temps de 60 ou 90 minutes ? Ce massage de détente sur table
+                est donc pour vous !
               </p>
 
               <v-img
