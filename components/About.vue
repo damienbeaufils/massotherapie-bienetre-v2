@@ -39,7 +39,7 @@
 
               <p class="font-weight-bold">
                 Être à votre écoute et vous accompagner vers votre mieux-être
-                est devenue une conviction.
+                est devenue une priorité.
               </p>
             </v-card-text>
             <v-card-actions class="justify-center">
