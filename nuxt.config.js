@@ -1,3 +1,8 @@
+const TITLE = 'Virginie Dang - Massothérapeute'
+const DESCRIPTION =
+  'Massothérapie et bien-être à Montréal, quartier Petite-Patrie. Prise de rendez-vous pour un massage Suédois de détente ou intramusculaire.'
+const LANG = 'fr'
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -5,17 +10,16 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     htmlAttrs: {
-      lang: 'fr',
+      lang: LANG,
     },
-    title: 'Virginie Dang - Massothérapeute',
+    title: TITLE,
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content:
-          'Massothérapie et bien-être à Montréal, quartier Petite-Patrie. Prise de rendez-vous pour un massage Suédois de détente ou intramusculaire.',
+        content: DESCRIPTION,
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
@@ -67,7 +71,15 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
-      lang: 'fr',
+      name: TITLE,
+      short_name: TITLE,
+      description: DESCRIPTION,
+      lang: LANG,
+    },
+    meta: {
+      name: TITLE,
+      description: DESCRIPTION,
+      lang: LANG,
     },
   },
 
