@@ -19,16 +19,12 @@
       </v-img>
     </v-col>
 
-    <v-col cols="12">
+    <v-col cols="12" sm="6">
       <v-card rounded>
         <v-card-text
-          class="custom-color-pink--text custom-color-green text-h6 text-center"
+          class="custom-color-pink--text custom-color-green text-h5 text-center"
         >
-          <span class="font-italic"
-            >«&nbsp;Prendre une pause, briser volontairement le rythme, c'est se
-            donner le temps de vivre&nbsp;»</span
-          >
-          <span class="text-body-1">- Robert Brisebois</span>
+          <span class="font-weight-bold">Votre mieux-être, ma priorité.</span>
         </v-card-text>
       </v-card>
     </v-col>
