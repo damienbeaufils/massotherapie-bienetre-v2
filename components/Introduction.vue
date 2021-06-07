@@ -1,19 +1,9 @@
 <template>
   <v-row justify="center">
-    <v-col cols="6" sm="4">
+    <v-col v-for="n in 3" :key="n" cols="4" sm="3">
       <v-img
-        src="/img/virginie_dang_2.jpg"
+        :src="`/img/virginie_dang_massage_${n}.jpg`"
         alt=""
-        aspect-ratio="1"
-        class="rounded"
-      >
-      </v-img>
-    </v-col>
-    <v-col cols="6" sm="4">
-      <v-img
-        src="/img/virginie_dang_1.jpg"
-        alt=""
-        aspect-ratio="1"
         class="rounded"
       >
       </v-img>

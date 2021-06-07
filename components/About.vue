@@ -10,7 +10,7 @@
         <v-col cols="12" sm="4">
           <v-avatar size="200" class="mt-5 mt-sm-0">
             <img
-              src="img/virginie_dang.jpg"
+              src="img/virginie_dang_photo_profil.jpg"
               alt="Photo de profil de Virginie Dang"
             />
           </v-avatar>

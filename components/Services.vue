@@ -48,7 +48,7 @@
               </p>
 
               <v-img
-                src="img/camille-brodard-VxAwTeiqDao-unsplash.jpg"
+                src="img/virginie_dang_massage_detente.jpg"
                 alt=""
                 class="mx-auto d-none d-sm-flex rounded"
                 max-width="50%"
@@ -86,7 +86,7 @@
                 >.
               </p>
               <v-img
-                src="img/toa-heftiba-hBLf2nvp-Yc-unsplash.jpg"
+                src="img/virginie_dang_massage_therapeutique.jpg"
                 alt=""
                 class="mx-auto d-none d-sm-flex rounded"
                 max-width="50%"
