@@ -58,8 +58,8 @@
 
               <span class="font-weight-bold">Horaires :</span>
               <ul class="no-bullets">
-                <li>Mardi - 14:00 à 20:00</li>
-                <li>Vendredi - 14:00 à 20:00</li>
+                <li>Vendredi - 10:00 à 21:00</li>
+                <li>Quelques dimanches - 10:00 à 18:00</li>
               </ul>
             </v-card-text>
           </v-card>
