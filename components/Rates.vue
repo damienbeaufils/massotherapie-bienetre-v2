@@ -12,8 +12,8 @@
         </v-card-title>
         <v-card-subtitle class="custom-color-green--text text-center">
           <ul class="no-bullets">
-            <li>60 minutes - 80 $ taxes incluses</li>
-            <li>90 minutes - 120 $ taxes incluses</li>
+            <li>60 minutes - 85 $ taxes incluses</li>
+            <li>90 minutes - 127,50 $ taxes incluses</li>
           </ul>
         </v-card-subtitle>
         <v-card-text class="custom-color-green--text text-center">
