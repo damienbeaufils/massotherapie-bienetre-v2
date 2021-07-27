@@ -121,7 +121,7 @@
                 font-italic font-weight-bold
               "
             >
-              Massage professionnel sur chaise
+              Drainage lymphatique
             </v-card-title>
             <v-card-text class="custom-color-green--text">
               <p>À venir</p>
