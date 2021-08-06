@@ -8,7 +8,7 @@
     <v-card-text class="custom-color-green--text">
       <v-card flat class="mb-5">
         <v-card-title class="custom-color-green--text justify-center mb-3">
-          Massage de détente ou thérapeutique sur table
+          <h1>Massage de détente ou thérapeutique sur table</h1>
         </v-card-title>
         <v-card-subtitle class="custom-color-green--text text-center">
           <ul class="no-bullets">
@@ -47,14 +47,16 @@
             </v-card-title>
 
             <v-card-text class="custom-color-green--text justify-center">
-              <p>6955 Ave Christophe-Colomb #104, Montréal, QC H2S 1H6</p>
-              <p>
-                <img
-                  src="img/Montreal_Metro.svg"
-                  alt=""
-                  class="metro-logo"
-                />&nbsp;Jean-Talon (7 minutes à pied du métro)
-              </p>
+              <address>
+                <p>6955 Ave Christophe-Colomb #104, Montréal, QC H2S 1H6</p>
+                <p>
+                  <img
+                    src="img/Montreal_Metro.svg"
+                    alt=""
+                    class="metro-logo"
+                  />&nbsp;Jean-Talon (7 minutes à pied du métro)
+                </p>
+              </address>
 
               <span class="font-weight-bold">Horaires :</span>
               <ul class="no-bullets">
@@ -80,7 +82,7 @@
   </v-card>
 </template>
 
-<style>
+<style scoped>
 .no-bullets {
   padding: 0 !important;
 }
@@ -91,5 +93,14 @@
 .metro-logo {
   max-width: 25px;
   vertical-align: middle;
+}
+
+h1 {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+address {
+  font-style: normal;
 }
 </style>

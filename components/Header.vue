@@ -75,7 +75,7 @@
   </v-app-bar>
 </template>
 
-<style>
+<style scoped>
 .v-application .text-h5.cursive {
   font-family: 'Parisienne', cursive !important;
 }
