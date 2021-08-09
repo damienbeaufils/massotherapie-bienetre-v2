@@ -32,7 +32,7 @@
                 font-italic font-weight-bold
               "
             >
-              Massage professionnel de détente
+              <h3>Massage professionnel de détente</h3>
             </v-card-title>
             <v-card-text class="custom-color-green--text">
               <p>
@@ -66,7 +66,7 @@
                 font-italic font-weight-bold
               "
             >
-              Massage professionnel thérapeutique
+              <h3>Massage professionnel thérapeutique</h3>
             </v-card-title>
             <v-card-text class="custom-color-green--text">
               <p>
@@ -104,7 +104,7 @@
                 font-italic font-weight-bold
               "
             >
-              Massage professionnel pour femmes enceintes
+              <h3>Massage professionnel pour femmes enceintes</h3>
             </v-card-title>
             <v-card-text class="custom-color-green--text">
               <p>À venir</p>
@@ -121,7 +121,7 @@
                 font-italic font-weight-bold
               "
             >
-              Drainage lymphatique
+              <h3>Drainage lymphatique</h3>
             </v-card-title>
             <v-card-text class="custom-color-green--text">
               <p>À venir</p>
