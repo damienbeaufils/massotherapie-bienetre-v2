@@ -22,7 +22,7 @@
         href="#services"
         class="mr-5 custom-color-pink custom-color-green--text"
       >
-        Services & RDV
+        Services &amp; RDV
       </v-btn>
 
       <v-btn
@@ -52,7 +52,7 @@
         <v-list-item>
           <v-list-item-title>
             <v-btn text href="#services" class="custom-color-green--text">
-              Services & RDV
+              Services &amp; RDV
             </v-btn>
           </v-list-item-title>
         </v-list-item>

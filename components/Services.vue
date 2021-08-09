@@ -3,7 +3,7 @@
     <v-card-title
       class="custom-color-pink custom-color-green--text justify-center pa-5"
     >
-      <h2 class="font-italic">Services & RDV</h2>
+      <h2 class="font-italic">Services &amp; RDV</h2>
     </v-card-title>
     <v-card-text class="custom-color-green--text pa-5">
       <v-row>
