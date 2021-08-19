@@ -1,7 +1,7 @@
 const TITLE =
   'Virginie Dang | Massothérapeute | Détente et thérapeutique | Montréal'
 const DESCRIPTION =
-  'Massothérapie et bien-être à Montréal, quartier Petite-Patrie. Prise de rendez-vous pour un massage professionnel de détente ou thérapeutique. Votre mieux-être, ma priorité.'
+  'Massothérapie et bien-être à Rosemont La Petite-Patrie. Prise de rendez-vous pour un massage professionnel de détente ou thérapeutique. Votre mieux-être, ma priorité.'
 const LANG = 'fr'
 
 export default {
