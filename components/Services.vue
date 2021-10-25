@@ -1,151 +1,92 @@
 <template>
   <v-card id="services" class="text-center">
-    <v-card-title
-      class="custom-color-pink custom-color-green--text justify-center pa-5"
-    >
-      <h2 class="font-italic">Services &amp; RDV</h2>
+    <v-card-title class="custom-color-green white--text justify-center pa-5">
+      <h2 class="text-h5 text-sm-h4">Soins</h2>
     </v-card-title>
     <v-card-text class="custom-color-green--text pa-5">
-      <v-row>
+      <v-row justify="center">
         <v-col cols="12">
-          <p>
-            Je pratique principalement des techniques de
-            <span class="font-weight-bold">massage suédois</span> mais j’aime
-            aussi intégrer des techniques un peu plus englobantes comme le
-            <span class="font-weight-bold">biocorporel</span> ou avec plus de
-            pression en utilisant les
-            <span class="font-weight-bold">avant-bras</span>.
-          </p>
-          <p>
-            Je vous concocterai un
-            <span class="font-weight-bold">massage sur-mesure</span> qui alliera
-            les différentes techniques en fonction de vos besoins !
-          </p>
+          <v-card rounded>
+            <v-card-text
+              class="
+                custom-color-green--text
+                custom-color-pink
+                text-h6 text-sm-h5 text-center
+                font-weight-bold font-italic
+                cursive
+              "
+            >
+              Je vous concocte un soin sur-mesure, adapté à vos besoins.
+            </v-card-text>
+          </v-card>
         </v-col>
 
         <v-col cols="12" sm="6">
-          <v-card outlined>
-            <v-card-title
-              class="
-                custom-color-green--text
-                justify-center
-                font-italic font-weight-bold
-              "
-            >
-              <h3>Massage professionnel de détente</h3>
-            </v-card-title>
+          <v-card flat>
             <v-card-text class="custom-color-green--text">
-              <p>
-                Vous n’avez pas de douleurs ou d’inconforts spécifiques mais
-                vous êtes
-                <span class="font-weight-bold">assez stressé.e ?</span>
-              </p>
-              <p>
-                Ou bien vous souhaitez tout simplement
-                <span class="font-weight-bold">prendre soin de vous</span>
-                le temps de 60 ou 90 minutes ? Ce massage de détente sur table
-                est donc pour vous !
-              </p>
-
               <v-img
-                src="img/virginie_dang_massage_detente.jpg"
+                src="img/services/massage_anti-stress.jpg"
                 alt=""
-                class="mx-auto d-none d-sm-flex rounded"
-                max-width="50%"
+                class="d-flex rounded mx-lg-15"
+                :aspect-ratio="1920 / 1280"
               ></v-img>
+
+              <h3 class="mt-2">Massage anti-stress</h3>
             </v-card-text>
           </v-card>
         </v-col>
 
         <v-col cols="12" sm="6">
-          <v-card outlined>
-            <v-card-title
-              class="
-                custom-color-green--text
-                justify-center
-                font-italic font-weight-bold
-              "
-            >
-              <h3>Massage professionnel thérapeutique</h3>
-            </v-card-title>
+          <v-card flat>
             <v-card-text class="custom-color-green--text">
-              <p>
-                Vous ressentez des
-                <span class="font-weight-bold"
-                  >douleurs musculaires et/ou articulaires</span
-                >
-                ou un <span class="font-weight-bold">inconfort</span>, ce
-                massage thérapeutique sur table est pour vous !
-              </p>
-              <p>
-                Une attention particulière sera portée sur le
-                <span class="font-weight-bold">segment douloureux</span>, grâce
-                à des
-                <span class="font-weight-bold"
-                  >techniques thérapeutiques plus profondes</span
-                >.
-              </p>
               <v-img
-                src="img/virginie_dang_massage_therapeutique.jpg"
+                src="img/services/kinesitherapie_therapeutique.jpg"
                 alt=""
-                class="mx-auto d-none d-sm-flex rounded"
-                max-width="50%"
+                class="d-flex rounded mx-lg-15"
+                :aspect-ratio="1920 / 1280"
               ></v-img>
+
+              <h3 class="mt-2">Kinésithérapie / thérapeutique</h3>
             </v-card-text>
           </v-card>
         </v-col>
 
         <v-col cols="12" sm="6">
-          <v-card outlined>
-            <v-card-title
-              class="
-                custom-color-green--text
-                justify-center
-                font-italic font-weight-bold
-              "
-            >
-              <h3>Massage professionnel pour femmes enceintes</h3>
-            </v-card-title>
+          <v-card flat>
             <v-card-text class="custom-color-green--text">
-              <p>À venir</p>
+              <v-img
+                src="img/services/drainage_lymphatique.jpg"
+                alt=""
+                class="d-flex rounded mx-lg-15"
+                :aspect-ratio="1920 / 1280"
+              ></v-img>
+
+              <h3 class="mt-2">Drainage lymphatique</h3>
             </v-card-text>
           </v-card>
         </v-col>
 
         <v-col cols="12" sm="6">
-          <v-card outlined>
-            <v-card-title
-              class="
-                custom-color-green--text
-                justify-center
-                font-italic font-weight-bold
-              "
-            >
-              <h3>Drainage lymphatique</h3>
-            </v-card-title>
+          <v-card flat>
             <v-card-text class="custom-color-green--text">
-              <p>À venir</p>
+              <v-img
+                src="img/services/massage_femmes_enceintes.jpg"
+                alt=""
+                class="d-flex rounded mx-lg-15"
+                :aspect-ratio="1920 / 1280"
+              ></v-img>
+
+              <h3 class="mt-2">Massage pour femmes enceintes</h3>
             </v-card-text>
           </v-card>
         </v-col>
       </v-row>
     </v-card-text>
-
-    <v-card-actions class="custom-color-green justify-center pa-sm-5">
-      <v-btn
-        text
-        class="
-          custom-color-pink
-          custom-color-green--text
-          pa-sm-7
-          font-weight-bold
-          text-sm-h6 text-subtitle-2
-        "
-        href="https://www.gorendezvous.com/virginiedang-mapp"
-        target="_blank"
-      >
-        Prendre rendez-vous en ligne
-      </v-btn>
-    </v-card-actions>
   </v-card>
 </template>
+
+<style scoped>
+.cursive {
+  font-family: 'Sofia', cursive !important;
+}
+</style>

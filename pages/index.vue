@@ -1,9 +1,9 @@
 <template>
   <div>
     <Introduction class="mb-5" />
+    <About class="mb-10" />
     <Services class="mb-10" />
-    <Rates class="mb-10" />
-    <About />
+    <Rates />
   </div>
 </template>
 

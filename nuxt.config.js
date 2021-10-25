@@ -1,7 +1,6 @@
-const TITLE =
-  'Virginie Dang | Massothérapeute | Détente et thérapeutique | Montréal'
+const TITLE = 'Virginie Dang | Masso-kinésithérapeute | Montréal'
 const DESCRIPTION =
-  'Massothérapie et bien-être à Rosemont La Petite-Patrie. Prise de rendez-vous pour un massage professionnel de détente ou thérapeutique. Votre mieux-être, ma priorité.'
+  'Massage anti-stress, Kinésithérapie / thérapeutique, Drainage lymphatique, Massage pour femmes enceintes. Prise de rendez-vous. Votre mieux-être, ma priorité.'
 const LANG = 'fr'
 
 export default {
@@ -80,6 +79,7 @@ export default {
             ital: [400, 500, 600, 700],
           },
           Parisienne: true,
+          Sofia: true,
         },
       },
     ],
@@ -117,7 +117,9 @@ export default {
       themes: {
         light: {
           'custom-color-pink': '#f8e5e5',
-          'custom-color-green': '#4d8591',
+          'custom-color-green': '#45818E',
+          'custom-color-grey': '#999999',
+          'custom-color-light-grey': '#EEEEEE',
         },
       },
     },

@@ -1,62 +1,83 @@
 <template>
   <v-card id="about" class="text-center">
-    <v-card-title
-      class="custom-color-pink custom-color-green--text justify-center"
-    >
-      <h2 class="font-italic">À propos</h2>
+    <v-card-title class="custom-color-green white--text justify-center">
+      <h2 class="text-h5 text-sm-h4">Ma mission</h2>
     </v-card-title>
     <v-card-text>
       <v-row align="center" justify="center">
-        <v-col cols="12" sm="4">
-          <v-avatar size="200" class="mt-5 mt-sm-0">
-            <img
-              src="img/virginie_dang_photo_profil.jpg"
-              alt="Photo de profil de Virginie Dang"
-            />
-          </v-avatar>
+        <v-col cols="12" sm="3">
+          <v-img
+            src="img/virginie_dang_photo_profil.jpg"
+            alt="Photo de profil de Virginie Dang"
+            class="rounded mx-auto mt-10 mt-sm-0"
+            :max-height="$vuetify.breakpoint.xsOnly ? '200px' : 'none'"
+            :max-width="$vuetify.breakpoint.xsOnly ? '200px' : 'none'"
+          >
+          </v-img>
         </v-col>
 
-        <v-col cols="12" sm="8">
+        <v-col cols="12" sm="9">
           <v-card flat>
             <v-card-text class="custom-color-green--text">
               <p>
-                Mon parcours a fait quelques détours avant de m’amener à la
-                massothérapie.
+                Aller à la rencontre de l’autre pour l’aider a
+                <b>toujours</b> fait parti de mes valeurs.
               </p>
 
               <p>
-                J’ai eu la chance de pouvoir travailler dans le tourisme pendant
-                plusieurs années. La joie que m’apportait le contact avec les
-                gens se confirmait mais dans mon grand fort intérieur, j’ai
-                toujours souhaité apporter plus qu’un sourire, plus qu’un unique
-                service à la clientèle.
+                Ayant travaillé pendant plusieurs années en relation clientèle
+                dans le tourisme, je me suis rendue compte que je souhaitais
+                apporter plus qu’un sourire :
+                <b>je voulais me sentir utile auprès des autres</b>.
               </p>
 
               <p>
-                Une très grande remise en question s’est imposée et la
-                massothérapie m’a paru évidente.
+                C’est alors que je me suis tournée vers la massothérapie et que
+                je me suis découverte une curiosité inébranlable sur la
+                biomécanique : je suis passée de
+                <b>400 heures à 1000 heures de formation</b> et je veux encore
+                pousser plus loin en me spécialisant en <b>orthothérapie</b>.
               </p>
 
-              <p class="font-weight-bold">
-                Être à votre écoute et vous accompagner vers votre mieux-être
-                est devenue une priorité.
+              <p>
+                <u>Ma mission</u> :
+                <b
+                  >accompagner les personnes souffrant de maux causés par des
+                  blessures physiques ou psychologiques</b
+                >
+                <i
+                  >(eh oui, le stress peut être la cause principale des
+                  douleurs)</i
+                >
+                <b>vers leur plein potentiel</b>.
+              </p>
+
+              <p>
+                Mes formations :
+                <b
+                  >massage suédois, lomi-lomi, drainage lymphatique,
+                  kinésithérapie, traitement anti-cellulite, vacuothérapie
+                  (ventouses), massage adapté pour femmes enceintes, massage
+                  anti-stress, oncologie</b
+                >.
+              </p>
+              <p class="font-italic">
+                Reçus disponibles pour fins d’assurances
+              </p>
+              <p>
+                <a
+                  href="https://rmpq.ca/repertoire-des-membres/montreal-rosemont-la-petite-patrie/virginie-dang-778809/"
+                  target="_blank"
+                >
+                  <v-img
+                    src="img/rmpq.jpg"
+                    alt="Membre du Réseau des massothérapeutes professionnels du Québec (RMPQ)"
+                    max-width="500"
+                    class="mx-auto"
+                  ></v-img>
+                </a>
               </p>
             </v-card-text>
-            <v-card-actions class="justify-center">
-              <v-btn
-                text
-                class="
-                  custom-color-pink--text
-                  custom-color-green
-                  py-7
-                  px-sm-7
-                  font-weight-bold
-                "
-                href="mailto:virginiedang.massotherapeute@gmail.com"
-              >
-                Des questions ?<br />N’hésitez pas à m’écrire !
-              </v-btn>
-            </v-card-actions>
           </v-card>
         </v-col>
       </v-row>

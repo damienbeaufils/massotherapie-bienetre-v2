@@ -10,63 +10,51 @@
       <span class="custom-color-pink--text text-h5">Virginie Dang</span>
       <br />
       <span class="custom-color-green--text text-h5 cursive"
-        >Massothérapeute</span
+        >Massothérapeute,<br />Kinésithérapeute</span
       >
     </div>
 
     <v-spacer></v-spacer>
 
     <div class="d-none d-sm-none d-md-flex">
-      <v-btn
-        text
-        href="#services"
-        class="mr-5 custom-color-pink custom-color-green--text"
-      >
-        Services &amp; RDV
+      <v-btn text href="#about" class="mr-5 custom-color-green white--text">
+        Ma mission
       </v-btn>
 
-      <v-btn
-        text
-        href="#rates"
-        class="mr-5 custom-color-pink custom-color-green--text"
-      >
-        Tarifs et horaires
+      <v-btn text href="#services" class="mr-5 custom-color-green white--text">
+        Soins
       </v-btn>
 
-      <v-btn
-        text
-        href="#about"
-        class="mr-5 custom-color-pink custom-color-green--text"
-      >
-        À propos
+      <v-btn text href="#rates" class="mr-5 custom-color-green white--text">
+        Horaires & où me trouver
       </v-btn>
     </div>
     <v-menu>
       <template #activator="{ on, attrs }">
         <v-btn icon v-bind="attrs" class="d-flex d-md-none" v-on="on">
-          <v-icon>mdi-dots-vertical</v-icon>
+          <v-icon>mdi-menu</v-icon>
         </v-btn>
       </template>
 
       <v-list>
         <v-list-item>
           <v-list-item-title>
+            <v-btn text href="#about" class="custom-color-green--text">
+              Ma mission
+            </v-btn>
+          </v-list-item-title>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-title>
             <v-btn text href="#services" class="custom-color-green--text">
-              Services &amp; RDV
+              Soins
             </v-btn>
           </v-list-item-title>
         </v-list-item>
         <v-list-item>
           <v-list-item-title>
             <v-btn text href="#rates" class="custom-color-green--text">
-              Tarifs et horaires
-            </v-btn>
-          </v-list-item-title>
-        </v-list-item>
-        <v-list-item>
-          <v-list-item-title>
-            <v-btn text href="#about" class="custom-color-green--text">
-              À propos
+              Horaires & où me trouver
             </v-btn>
           </v-list-item-title>
         </v-list-item>
@@ -76,7 +64,7 @@
 </template>
 
 <style scoped>
-.v-application .text-h5.cursive {
+.cursive {
   font-family: 'Parisienne', cursive !important;
 }
 </style>
