@@ -9,9 +9,14 @@
       >
         <v-icon>mdi-facebook</v-icon>
       </v-btn>
-      <v-btn text class="my-2 mx-sm-5 pa-0" href="/#rates">
+      <v-btn
+        text
+        class="my-2 mx-sm-5 pa-0"
+        href="https://www.gorendezvous.com/virginiedang-mapp"
+        target="_blank"
+      >
         <v-img
-          src="img/LogoFull_GOrendezvous.png"
+          src="/img/LogoFull_GOrendezvous.png"
           height="30"
           width="100"
           alt="Prendre un rendez-vous"

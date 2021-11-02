@@ -7,7 +7,7 @@
       <v-row align="center" justify="center">
         <v-col cols="12" sm="3">
           <v-img
-            src="img/virginie_dang_photo_profil.jpg"
+            src="/img/virginie_dang_photo_profil.jpg"
             alt="Photo de profil de Virginie Dang"
             class="rounded mx-auto mt-10 mt-sm-0"
             :max-height="$vuetify.breakpoint.xsOnly ? '200px' : 'none'"
@@ -57,7 +57,7 @@
                 <b
                   >massage suédois, lomi-lomi, drainage lymphatique,
                   kinésithérapie, traitement anti-cellulite, vacuothérapie
-                  (ventouses), massage adapté pour femmes enceintes, massage
+                  (ventouses), massage adapté pour femme enceinte, massage
                   anti-stress, oncologie</b
                 >.
               </p>
@@ -70,7 +70,7 @@
                   target="_blank"
                 >
                   <v-img
-                    src="img/rmpq.jpg"
+                    src="/img/rmpq.jpg"
                     alt="Membre du Réseau des massothérapeutes professionnels du Québec (RMPQ)"
                     max-width="500"
                     class="mx-auto"

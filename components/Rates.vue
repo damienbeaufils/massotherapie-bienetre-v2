@@ -28,7 +28,7 @@
                 <p>810 Av Champagneur, Montréal, QC H2V 1K5</p>
                 <p>
                   <img
-                    src="img/Montreal_Metro.svg"
+                    src="/img/Montreal_Metro.svg"
                     alt=""
                     class="metro-logo"
                   />&nbsp;Outremont (3 minutes à pied du métro)
@@ -98,7 +98,7 @@
                 <p>8290 R. Saint-Denis #2, Montréal, QC H2P 2G6</p>
                 <p>
                   <img
-                    src="img/Montreal_Metro.svg"
+                    src="/img/Montreal_Metro.svg"
                     alt=""
                     class="metro-logo"
                   />&nbsp;Jarry (5 minutes à pied du métro)
@@ -170,7 +170,7 @@
                 <p>6955 Ave Christophe-Colomb #104, Montréal, QC H2S 1H6</p>
                 <p>
                   <img
-                    src="img/Montreal_Metro.svg"
+                    src="/img/Montreal_Metro.svg"
                     alt=""
                     class="metro-logo"
                   />&nbsp;Jean-Talon (7 minutes à pied du métro)
