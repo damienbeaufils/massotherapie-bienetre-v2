@@ -62,7 +62,8 @@
                 >.
               </p>
               <p class="font-italic">
-                Reçus disponibles pour fins d’assurances
+                Reçus disponibles en massothérapie et kinésithérapie pour fins
+                d’assurances
               </p>
               <p>
                 <a

@@ -1,6 +1,8 @@
 <template>
   <v-card>
-    <v-card-title class="custom-color-green white--text justify-center mt-5">
+    <v-card-title
+      class="custom-color-green white--text justify-center mt-5 text-center"
+    >
       <h1 class="text-h5 text-sm-h4 font-weight-bold">
         Kinésithérapie / thérapeutique
       </h1>
