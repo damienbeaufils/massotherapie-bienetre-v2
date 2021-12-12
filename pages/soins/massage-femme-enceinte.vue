@@ -100,7 +100,7 @@
 
         <v-col cols="12" class="text-center">
           <v-btn
-            href="https://www.gorendezvous.com/virginiedang-mapp"
+            href="https://www.gorendezvous.com/virginiedang"
             target="_blank"
             class="
               custom-color-pink

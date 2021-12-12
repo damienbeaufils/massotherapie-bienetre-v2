@@ -12,7 +12,7 @@
       <v-btn
         text
         class="my-2 mx-sm-5 pa-0"
-        href="https://www.gorendezvous.com/virginiedang-mapp"
+        href="https://www.gorendezvous.com/virginiedang"
         target="_blank"
       >
         <v-img

@@ -58,7 +58,7 @@
                   >massage suédois, lomi-lomi, drainage lymphatique,
                   kinésithérapie, traitement anti-cellulite, vacuothérapie
                   (ventouses), massage adapté pour femme enceinte, massage
-                  anti-stress, oncologie</b
+                  anti-stress, oncologie, réflexologie plantaire</b
                 >.
               </p>
               <p class="font-italic">

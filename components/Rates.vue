@@ -51,7 +51,7 @@
                   font-weight-bold
                   text-sm-h6 text-subtitle-2
                 "
-                href="https://www.gorendezvous.com/virginiedang-mapp"
+                href="https://www.gorendezvous.com/virginiedang"
                 target="_blank"
               >
                 Prendre rendez-vous
@@ -105,11 +105,13 @@
                 </p>
               </address>
 
-              <span class="font-weight-bold">Horaires :</span>
+              <span class="font-weight-bold"
+                >Horaires (à titre indicatif) :</span
+              >
               <ul class="no-bullets">
                 <li>Mardi - 14:00 à 20:00</li>
-                <li>Un mercredi sur deux - 10:00 à 18:00</li>
-                <li>Jeudi - 11:00 à 19:00</li>
+                <li>Mercredi - 10:00 à 18:00</li>
+                <li>Jeudi - 14:00 à 18:00</li>
               </ul>
             </v-card-text>
             <v-card-actions class="justify-center">
@@ -159,27 +161,29 @@
                 py-2
               "
             >
-              Samedi
+              Jeudi
             </v-card-title>
 
             <v-card-text class="custom-color-green--text justify-center">
               <p class="font-weight-bold">
-                Clinique des Médecines Alternatives de la Petite-Patrie
+                Clinique Physio Théra Plus - Plateau-Mont-Royal
               </p>
               <address>
-                <p>6955 Ave Christophe-Colomb #104, Montréal, QC H2S 1H6</p>
+                <p>833 Rue Roy E, Montréal, QC H2L 1E4</p>
                 <p>
                   <img
                     src="/img/Montreal_Metro.svg"
                     alt=""
                     class="metro-logo"
-                  />&nbsp;Jean-Talon (7 minutes à pied du métro)
+                  />&nbsp;Sherbrooke (6 minutes à pied du métro)
                 </p>
               </address>
 
-              <span class="font-weight-bold">Horaires :</span>
+              <span class="font-weight-bold"
+                >Horaires (à titre indicatif) :</span
+              >
               <ul class="no-bullets">
-                <li>Samedi - 10:00 à 18:00</li>
+                <li>Jeudi - 08:00 à 11:00</li>
               </ul>
             </v-card-text>
             <v-card-actions class="justify-center">
@@ -193,7 +197,7 @@
                   font-weight-bold
                   text-sm-h6 text-subtitle-2
                 "
-                href="https://www.gorendezvous.com/virginiedang-mapp"
+                href="https://physiotheraplus.com/contact-plateau/"
                 target="_blank"
               >
                 Prendre rendez-vous
@@ -204,7 +208,7 @@
 
         <v-col cols="12" sm="6" class="map">
           <iframe
-            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCNsDQVC0fSNhGNPsppuAotr38HuU5Hgqk&q=Clinique des Médecines Alternatives de la Petite-Patrie, 6955 Ave Christophe-Colomb #104, Montréal, QC H2S 1H6, Canada"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCNsDQVC0fSNhGNPsppuAotr38HuU5Hgqk&q=Clinique Physio Théra Plus - Plateau Mont Royal, 833 Rue Roy E, Montréal, QC H2L 1E4, Canada"
             frameborder="0"
             scrolling="no"
             width="100%"
