@@ -45,7 +45,9 @@
         class="my-2 mx-sm-5 pa-0 d-none d-sm-flex custom-color-green--text"
         disabled
       >
-        <small>&copy; {{ new Date().getFullYear() }} - Virginie Dang</small>
+        <small
+          >&copy; 2021-{{ new Date().getFullYear() }} - Virginie Dang</small
+        >
       </v-btn>
     </v-row>
   </v-footer>
