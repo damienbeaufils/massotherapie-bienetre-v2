@@ -8,13 +8,7 @@
         <v-col cols="12">
           <v-card rounded>
             <v-card-text
-              class="
-                custom-color-green--text
-                custom-color-pink
-                text-h6 text-sm-h5 text-center
-                font-weight-bold font-italic
-                cursive
-              "
+              class="custom-color-green--text custom-color-pink text-h6 text-sm-h5 text-center font-weight-bold font-italic cursive"
             >
               Je vous concocte un soin sur-mesure, adapté à vos besoins.
             </v-card-text>

@@ -8,16 +8,7 @@
         <v-col cols="12" sm="6">
           <v-card class="custom-color-light-grey mt-10">
             <v-card-title
-              class="
-                justify-center
-                custom-color-green
-                mx-5 mx-sm-15
-                white--text
-                font-weight-bold
-                card-header
-                rounded
-                py-2
-              "
+              class="justify-center custom-color-green mx-5 mx-sm-15 white--text font-weight-bold card-header rounded py-2"
             >
               Lundi & Jeudi
             </v-card-title>
@@ -44,14 +35,7 @@
             <v-card-actions class="justify-center">
               <v-btn
                 text
-                class="
-                  custom-color-grey
-                  black--text
-                  pa-sm-7
-                  mb-2
-                  font-weight-bold
-                  text-sm-h6 text-subtitle-2
-                "
+                class="custom-color-grey black--text pa-sm-7 mb-2 font-weight-bold text-sm-h6 text-subtitle-2"
                 href="https://www.gorendezvous.com/virginiedang"
                 target="_blank"
               >
@@ -77,16 +61,7 @@
         <v-col cols="12" sm="6">
           <v-card class="custom-color-light-grey mt-10">
             <v-card-title
-              class="
-                justify-center
-                custom-color-green
-                mx-5 mx-sm-15
-                white--text
-                font-weight-bold
-                card-header
-                rounded
-                py-2
-              "
+              class="justify-center custom-color-green mx-5 mx-sm-15 white--text font-weight-bold card-header rounded py-2"
             >
               Mardi, Mercredi & Vendredi
             </v-card-title>
@@ -118,14 +93,7 @@
             <v-card-actions class="justify-center">
               <v-btn
                 text
-                class="
-                  custom-color-grey
-                  black--text
-                  pa-sm-7
-                  mb-2
-                  font-weight-bold
-                  text-sm-h6 text-subtitle-2
-                "
+                class="custom-color-grey black--text pa-sm-7 mb-2 font-weight-bold text-sm-h6 text-subtitle-2"
                 href="https://physiotheraplus.com/contact-villeray/"
                 target="_blank"
               >
