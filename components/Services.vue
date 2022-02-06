@@ -25,7 +25,7 @@
           👇 Cliquez sur un élément pour avoir plus d'informations 👇
         </v-col>
 
-        <v-col cols="12" sm="6">
+        <v-col cols="12" sm="4">
           <v-hover v-slot="{ hover }">
             <v-card
               flat
@@ -37,7 +37,7 @@
                 <v-img
                   src="/img/services/massage_anti-stress.jpg"
                   alt=""
-                  class="d-flex rounded mx-lg-15"
+                  class="d-flex rounded"
                   :aspect-ratio="1920 / 1280"
                 ></v-img>
 
@@ -47,7 +47,7 @@
           </v-hover>
         </v-col>
 
-        <v-col cols="12" sm="6">
+        <v-col cols="12" sm="4">
           <v-hover v-slot="{ hover }">
             <v-card
               flat
@@ -59,7 +59,7 @@
                 <v-img
                   src="/img/services/kinesitherapie_therapeutique.jpg"
                   alt=""
-                  class="d-flex rounded mx-lg-15"
+                  class="d-flex rounded"
                   :aspect-ratio="1920 / 1280"
                 ></v-img>
 
@@ -69,7 +69,7 @@
           </v-hover>
         </v-col>
 
-        <v-col cols="12" sm="6">
+        <v-col cols="12" sm="4">
           <v-hover v-slot="{ hover }">
             <v-card
               flat
@@ -81,7 +81,7 @@
                 <v-img
                   src="/img/services/drainage_lymphatique.jpg"
                   alt=""
-                  class="d-flex rounded mx-lg-15"
+                  class="d-flex rounded"
                   :aspect-ratio="1920 / 1280"
                 ></v-img>
 
@@ -91,7 +91,7 @@
           </v-hover>
         </v-col>
 
-        <v-col cols="12" sm="6">
+        <v-col cols="12" sm="4">
           <v-hover v-slot="{ hover }">
             <v-card
               flat
@@ -103,11 +103,45 @@
                 <v-img
                   src="/img/services/massage_femme_enceinte.jpg"
                   alt=""
-                  class="d-flex rounded mx-lg-15"
+                  class="d-flex rounded"
                   :aspect-ratio="1920 / 1280"
                 ></v-img>
 
                 <h3 class="mt-2">Massage pour femme enceinte</h3>
+              </v-card-text>
+            </v-card>
+          </v-hover>
+        </v-col>
+
+        <v-col cols="12" sm="4">
+          <v-hover v-slot="{ hover }">
+            <v-card flat :elevation="hover ? 12 : 0">
+              <v-card-text class="custom-color-green--text">
+                <v-img
+                  src="/img/services/reflexologie_plantaire.jpg"
+                  alt=""
+                  class="d-flex rounded"
+                  :aspect-ratio="1920 / 1280"
+                ></v-img>
+
+                <h3 class="mt-2">Réflexologie plantaire</h3>
+              </v-card-text>
+            </v-card>
+          </v-hover>
+        </v-col>
+
+        <v-col cols="12" sm="4">
+          <v-hover v-slot="{ hover }">
+            <v-card flat :elevation="hover ? 12 : 0">
+              <v-card-text class="custom-color-green--text">
+                <v-img
+                  src="/img/services/traitement_cellulalgie.jpg"
+                  alt=""
+                  class="d-flex rounded"
+                  :aspect-ratio="1920 / 1280"
+                ></v-img>
+
+                <h3 class="mt-2">Traitement cellulalgie</h3>
               </v-card-text>
             </v-card>
           </v-hover>
