@@ -141,7 +141,8 @@
 export default {
   head() {
     return {
-      title: 'Drainage lymphatique | Virginie Dang | Masso-kinésithérapeute',
+      title:
+        'Drainage lymphatique |  Virginie Dang | Masso-kinésithérapeute & Orthothérapeute',
       meta: [
         {
           hid: 'description',

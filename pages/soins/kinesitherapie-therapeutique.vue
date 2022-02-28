@@ -223,7 +223,7 @@ export default {
   head() {
     return {
       title:
-        'Kinésithérapie / thérapeutique | Virginie Dang | Masso-kinésithérapeute',
+        'Kinésithérapie / thérapeutique |  Virginie Dang | Masso-kinésithérapeute & Orthothérapeute',
       meta: [
         {
           hid: 'description',

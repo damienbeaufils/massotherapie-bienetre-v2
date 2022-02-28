@@ -192,7 +192,8 @@
 export default {
   head() {
     return {
-      title: 'Massage anti-stress | Virginie Dang | Masso-kinésithérapeute',
+      title:
+        'Massage anti-stress |  Virginie Dang | Masso-kinésithérapeute & Orthothérapeute',
       meta: [
         {
           hid: 'description',

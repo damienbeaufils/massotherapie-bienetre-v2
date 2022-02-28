@@ -117,7 +117,7 @@ export default {
   head() {
     return {
       title:
-        'Massage pour femme enceinte | Virginie Dang | Masso-kinésithérapeute',
+        'Massage pour femme enceinte |  Virginie Dang | Masso-kinésithérapeute & Orthothérapeute',
       meta: [
         {
           hid: 'description',

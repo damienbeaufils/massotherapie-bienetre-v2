@@ -12,8 +12,8 @@
       <nuxt-link to="/">
         <span class="custom-color-pink--text text-h5">Virginie Dang</span>
         <br />
-        <span class="custom-color-green--text text-h5 cursive"
-          >Massothérapeute,<br />Kinésithérapeute</span
+        <span class="custom-color-green--text text-h6 cursive"
+          >Massothérapeute,<br />Kinésithérapeute,<br />Orthothérapeute</span
         >
       </nuxt-link>
     </div>
@@ -74,5 +74,9 @@
 
 a {
   text-decoration: none;
+}
+
+.text-h6 {
+  line-height: 0;
 }
 </style>
