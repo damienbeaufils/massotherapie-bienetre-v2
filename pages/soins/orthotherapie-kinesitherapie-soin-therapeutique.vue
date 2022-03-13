@@ -4,7 +4,7 @@
       class="custom-color-green white--text justify-center mt-5 text-center"
     >
       <h1 class="text-h5 text-sm-h4 font-weight-bold">
-        Kinésithérapie / thérapeutique
+        Orthothérapie - Kinésithérapie / Soin thérapeutique
       </h1>
     </v-card-title>
 
@@ -12,11 +12,47 @@
       <v-row justify="center">
         <v-col cols="12">
           <h2 class="custom-color-green--text mb-5">
+            Qu’est-ce que l’orthothérapie ?
+          </h2>
+          <p>
+            L’orthothérapie a pour objectif d’aider le système
+            musculosquelettique à se rééquilibrer en intervenant essentiellement
+            sur le système musculaire.
+          </p>
+
+          <p>
+            L’orthothérapie est une thérapie manuelle qui combine la
+            massothérapie à la kinésithérapie (la thérapie par le mouvement) et
+            qui s’adresse aux personnes éprouvant
+            <b
+              >des douleurs musculaires et des raideurs articulaires,
+              principalement attribuées à de mauvaises postures qui ont été
+              intégrées depuis longtemps et à des mouvements brusques ou
+              répétitifs</b
+            >.
+          </p>
+
+          <p>
+            L’orthothérapie est une spécialisation qui m’a permise de pousser
+            davantage ma compréhension de l’anatomie et de la physiologie du
+            corps humain et de <b>voir l’être humain dans son ensemble</b>.
+          </p>
+
+          <p>
+            L’orthothérapie est indiquée pour : soulager les douleurs
+            musculo-articulaires, les raideurs articulaires, diminuer les effets
+            du stress et de l’anxiété sur le corps, apaiser les douleurs
+            chroniques, calmer les spasmes musculaires.
+          </p>
+        </v-col>
+
+        <v-col cols="12">
+          <h2 class="custom-color-green--text mb-5">
             Qu’est-ce que la kinésithérapie ?
           </h2>
           <p>
-            La kinésithérapie est un terme qui signifie le traitement des
-            problématiques par le mouvement.
+            La kinésithérapie est une technique visant à
+            <b>soulager des problématiques par le mouvement</b>.
           </p>
 
           <p>
@@ -32,14 +68,32 @@
 
           <p>
             Ce sont les muscles de mouvements, l’inflammation, la mobilité
-            articulaire et la fibrose qui sont ciblés pendant les traitements.
+            articulaire et la fibrose qui sont ciblés pendant les soins.
           </p>
+        </v-col>
 
+        <v-col cols="12">
+          <v-card rounded>
+            <v-card-text
+              class="custom-color-green--text custom-color-pink text-subtitle-1 font-weight-bold text-center"
+            >
+              En conclusion, le soin thérapeutique comprendra toutes les
+              techniques de massage que j'ai apprises afin d’aider votre système
+              nerveux à se détendre puis d’appliquer les notions de
+              kinésithérapie et d’orthothérapie pour vous aider à atteindre
+              votre plein potentiel.
+            </v-card-text>
+          </v-card>
+        </v-col>
+
+        <v-col cols="12">
+          <h3 class="custom-color-green--text my-5">
+            Comment se déroule le soin ?
+          </h3>
           <p>
-            Le soin de kinésithérapie débute toujours par des questions
-            détaillées sur votre santé générale puis un examen visuel,
-            palpatoire et des tests sur les mouvements de base d’une
-            articulation.
+            Le soin débute toujours par des questions détaillées sur votre santé
+            générale puis un examen visuel, palpatoire et des tests sur les
+            mouvements de base d’une articulation.
           </p>
 
           <p>
@@ -143,32 +197,6 @@
           </p>
         </v-col>
 
-        <v-col cols="12">
-          <h3 class="custom-color-green--text mb-5">
-            Ce qu’il faut aussi savoir
-          </h3>
-          <p>
-            Ma formation de masso-kinésithérapeute a été faite au <b>Québec</b>.
-          </p>
-
-          <p>
-            Le kinésithérapeute en France traite aussi tous les cas de
-            rééducation après la perte d’un membre ou de handicap congénital.
-          </p>
-          <p>
-            Contrairement à la France, ces domaines touchent directement la
-            physiothérapie et l’ergothérapie au Québec.
-          </p>
-
-          <p>
-            <b
-              >Mon champ d’action se porte alors que sur les problématiques
-              musculo-squelettiques et je référerai à un.e
-              physiothérapeute/ergothérapeute le cas échéant.</b
-            >
-          </p>
-        </v-col>
-
         <v-col cols="12" class="mt-4">
           <h3 class="custom-color-green--text mb-5">Pour qui ?</h3>
           <p>
@@ -223,13 +251,13 @@ export default {
   head() {
     return {
       title:
-        'Kinésithérapie / thérapeutique |  Virginie Dang | Masso-kinésithérapeute & Orthothérapeute',
+        'Orthothérapie - Kinésithérapie / Soin thérapeutique |  Virginie Dang | Masso-kinésithérapeute & Orthothérapeute',
       meta: [
         {
           hid: 'description',
           name: 'description',
           content:
-            'Qu’est-ce que la kinésithérapie ? Le massage thérapeutique ? Comment fonctionnent les ventouses ? Pour qui ? Les bienfaits et ce qu’il faut aussi savoir.',
+            'Qu’est-ce que l’orthothérapie et la kinésithérapie ? Comment fonctionnent les ventouses ? Pour qui ? Les bienfaits et ce qu’il faut aussi savoir.',
         },
       ],
     }

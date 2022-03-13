@@ -1,5 +1,5 @@
 <template>
-  <v-card id="about" class="text-center">
+  <v-card id="mission" class="text-center">
     <v-card-title class="custom-color-green white--text justify-center">
       <h2 class="text-h5 text-sm-h4">Ma mission</h2>
     </v-card-title>
@@ -34,36 +34,31 @@
               <p>
                 C’est alors que je me suis tournée vers la massothérapie et que
                 je me suis découverte une curiosité inébranlable sur la
-                biomécanique : je suis passée de
-                <b>400 heures à 1000 heures de formation</b> et je veux encore
-                pousser plus loin en me spécialisant en <b>orthothérapie</b>.
+                biomécanique : je suis passée de 400 heures à plus de
+                <b>1 200 heures de formation en massothérapie spécialisée</b> et
+                j'ai gradué en tant qu'<b
+                  >orthothérapeute pour le travail des muscles profonds</b
+                >.
               </p>
 
               <p>
                 <u>Ma mission</u> :
                 <b
                   >accompagner les personnes souffrant de maux causés par des
-                  blessures physiques ou psychologiques</b
-                >
-                <i
-                  >(eh oui, le stress peut être la cause principale des
-                  douleurs)</i
-                >
-                <b>vers leur plein potentiel</b>.
+                  blessures physiques ou psychologiques vers leur plein
+                  potentiel</b
+                >.
               </p>
 
               <p>
-                Mes formations :
-                <b
-                  >massage suédois, lomi-lomi, drainage lymphatique,
-                  kinésithérapie, traitement anti-cellulite, vacuothérapie
-                  (ventouses), massage adapté pour femme enceinte, massage
-                  anti-stress, oncologie, réflexologie plantaire</b
-                >.
+                <u>Mes formations</u> : orthothérapie, kinésithérapie, massage
+                suédois, lomi-lomi, drainage lymphatique, soin anti-cellulite,
+                vacuothérapie (ventouses), massage adapté pour femme enceinte,
+                massage anti-stress, oncologie, réflexologie plantaire.
               </p>
               <p class="font-italic">
-                Reçus disponibles en massothérapie et kinésithérapie pour fins
-                d’assurances
+                Reçus disponibles en massothérapie, kinésithérapie et
+                orthothérapie pour fins d’assurances
               </p>
               <p>
                 <a

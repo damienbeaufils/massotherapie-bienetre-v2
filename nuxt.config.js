@@ -1,7 +1,7 @@
 const TITLE =
   ' Virginie Dang | Masso-kinésithérapeute & Orthothérapeute | Montréal'
 const DESCRIPTION =
-  'Massage anti-stress, Kinésithérapie / thérapeutique, Drainage lymphatique, Massage pour femme enceinte. Prise de rendez-vous. Votre mieux-être, ma priorité.'
+  'Massage anti-stress, Orthothérapie, Kinésithérapie, Soin thérapeutique, Drainage lymphatique, Massage pour femme enceinte. Prise de rendez-vous en ligne.'
 const LANG = 'fr'
 
 export default {

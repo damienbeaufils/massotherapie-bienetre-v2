@@ -12,7 +12,7 @@
       <nuxt-link to="/">
         <span class="custom-color-pink--text text-h5">Virginie Dang</span>
         <br />
-        <span class="custom-color-green--text text-h6 cursive"
+        <span class="custom-color-green--text text-body-1"
           >Massothérapeute,<br />Kinésithérapeute,<br />Orthothérapeute</span
         >
       </nuxt-link>
@@ -21,15 +21,15 @@
     <v-spacer></v-spacer>
 
     <div class="d-none d-sm-none d-md-flex">
-      <v-btn text href="/#about" class="mr-5 custom-color-green white--text">
+      <v-btn text href="/#mission" class="mr-5 custom-color-green white--text">
         Ma mission
       </v-btn>
 
-      <v-btn text href="/#services" class="mr-5 custom-color-green white--text">
+      <v-btn text href="/#soins" class="mr-5 custom-color-green white--text">
         Soins
       </v-btn>
 
-      <v-btn text href="/#rates" class="mr-5 custom-color-green white--text">
+      <v-btn text href="/#soins" class="mr-5 custom-color-green white--text">
         Horaires & où me trouver
       </v-btn>
     </div>
@@ -43,7 +43,7 @@
       <v-list>
         <v-list-item>
           <v-list-item-title>
-            <v-btn text href="/#about" class="custom-color-green--text">
+            <v-btn text href="/#mission" class="custom-color-green--text">
               Ma mission
             </v-btn>
           </v-list-item-title>
@@ -57,7 +57,7 @@
         </v-list-item>
         <v-list-item>
           <v-list-item-title>
-            <v-btn text href="/#rates" class="custom-color-green--text">
+            <v-btn text href="/#horaires" class="custom-color-green--text">
               Horaires & où me trouver
             </v-btn>
           </v-list-item-title>

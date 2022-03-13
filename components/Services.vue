@@ -1,5 +1,5 @@
 <template>
-  <v-card id="services" class="text-center">
+  <v-card id="soins" class="text-center">
     <v-card-title class="custom-color-green white--text justify-center pa-5">
       <h1 class="text-h5 text-sm-h4">Soins</h1>
     </v-card-title>
@@ -46,7 +46,7 @@
             <v-card
               flat
               nuxt
-              to="/soins/kinesitherapie-therapeutique"
+              to="/soins/orthotherapie-kinesitherapie-soin-therapeutique"
               :elevation="hover ? 12 : 0"
             >
               <v-card-text class="custom-color-green--text">
@@ -57,7 +57,9 @@
                   :aspect-ratio="1920 / 1280"
                 ></v-img>
 
-                <h3 class="mt-2">Kinésithérapie / thérapeutique</h3>
+                <h3 class="mt-2">
+                  Orthothérapie - Kinésithérapie / Soin thérapeutique
+                </h3>
               </v-card-text>
             </v-card>
           </v-hover>
@@ -129,13 +131,13 @@
             <v-card flat :elevation="hover ? 12 : 0">
               <v-card-text class="custom-color-green--text">
                 <v-img
-                  src="/img/services/traitement_cellulalgie.jpg"
+                  src="/img/services/soin_anti_cellulite.jpg"
                   alt=""
                   class="d-flex rounded"
                   :aspect-ratio="1920 / 1280"
                 ></v-img>
 
-                <h3 class="mt-2">Traitement cellulalgie</h3>
+                <h3 class="mt-2">Soin anti-cellulite</h3>
               </v-card-text>
             </v-card>
           </v-hover>

@@ -1,5 +1,5 @@
 <template>
-  <v-card id="rates" class="text-center">
+  <v-card id="horaires" class="text-center">
     <v-card-title class="custom-color-green white--text justify-center">
       <h2 class="text-h5 text-sm-h4">Horaires & où me trouver</h2>
     </v-card-title>
