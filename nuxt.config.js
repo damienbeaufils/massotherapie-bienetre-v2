@@ -23,6 +23,7 @@ export default {
         content: DESCRIPTION,
       },
       { name: 'theme-color', content: '#ffffff' },
+      { name: 'msvalidate.01', content: 'B99712C284A9467F3EC31FC651D42912' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
