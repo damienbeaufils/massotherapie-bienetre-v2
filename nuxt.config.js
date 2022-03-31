@@ -52,7 +52,7 @@ export default {
         src: 'https://www.googletagmanager.com/gtag/js?id=G-698X13KBMJ',
         async: true,
       },
-      { src: 'js/gtag.js' },
+      { src: '/js/gtag.js' },
     ],
   },
 
