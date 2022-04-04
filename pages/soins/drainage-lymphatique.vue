@@ -151,6 +151,12 @@ export default {
             'Qu’est ce que le drainage lymphatique ? Pour qui ? Les bienfaits. Prise de rendez-vous pour un drainage lymphatique.',
         },
       ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.massotherapie-bienetre.com/soins/drainage-lymphatique/',
+        },
+      ],
     }
   },
 }

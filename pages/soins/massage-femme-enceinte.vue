@@ -126,6 +126,12 @@ export default {
             'Qu’est ce que le massage pour femmes enceintes ? Est-il possible de se faire masser durant le premier trimestre ? Les bienfaits. Prise de rendez-vous.',
         },
       ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.massotherapie-bienetre.com/soins/massage-femme-enceinte/',
+        },
+      ],
     }
   },
 }

@@ -260,6 +260,12 @@ export default {
             'Qu’est-ce que l’orthothérapie et la kinésithérapie ? Comment fonctionnent les ventouses ? Pour qui ? Les bienfaits et ce qu’il faut aussi savoir.',
         },
       ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.massotherapie-bienetre.com/soins/orthotherapie-kinesitherapie-soin-therapeutique/',
+        },
+      ],
     }
   },
 }

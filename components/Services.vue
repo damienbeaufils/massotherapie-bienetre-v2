@@ -24,7 +24,7 @@
             <v-card
               flat
               nuxt
-              to="/soins/massage-anti-stress"
+              to="/soins/massage-anti-stress/"
               :elevation="hover ? 12 : 0"
             >
               <v-card-text class="custom-color-green--text">
@@ -46,7 +46,7 @@
             <v-card
               flat
               nuxt
-              to="/soins/orthotherapie-kinesitherapie-soin-therapeutique"
+              to="/soins/orthotherapie-kinesitherapie-soin-therapeutique/"
               :elevation="hover ? 12 : 0"
             >
               <v-card-text class="custom-color-green--text">
@@ -70,7 +70,7 @@
             <v-card
               flat
               nuxt
-              to="/soins/drainage-lymphatique"
+              to="/soins/drainage-lymphatique/"
               :elevation="hover ? 12 : 0"
             >
               <v-card-text class="custom-color-green--text">
@@ -92,7 +92,7 @@
             <v-card
               flat
               nuxt
-              to="/soins/massage-femme-enceinte"
+              to="/soins/massage-femme-enceinte/"
               :elevation="hover ? 12 : 0"
             >
               <v-card-text class="custom-color-green--text">

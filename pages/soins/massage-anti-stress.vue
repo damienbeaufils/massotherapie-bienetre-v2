@@ -202,6 +202,12 @@ export default {
             'Qu’est-ce que le massage anti-stress ? Pour qui ? Les bienfaits et ce qu’il faut aussi savoir. Prise de rendez-vous pour un massage anti-stress.',
         },
       ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.massotherapie-bienetre.com/soins/massage-anti-stress/',
+        },
+      ],
     }
   },
 }
