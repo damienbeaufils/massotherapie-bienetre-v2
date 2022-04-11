@@ -154,7 +154,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://www.massotherapie-bienetre.com/soins/drainage-lymphatique/',
+          href: 'https://kine-serenite.ca/soins/drainage-lymphatique/',
         },
       ],
     }

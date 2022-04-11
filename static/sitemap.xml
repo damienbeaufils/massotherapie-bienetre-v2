@@ -5,27 +5,27 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://www.massotherapie-bienetre.com/</loc>
+    <loc>https://kine-serenite.ca/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://www.massotherapie-bienetre.com/soins/massage-anti-stress/</loc>
+    <loc>https://kine-serenite.ca/soins/massage-anti-stress/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.massotherapie-bienetre.com/soins/orthotherapie-kinesitherapie-soin-therapeutique/</loc>
+    <loc>https://kine-serenite.ca/soins/orthotherapie-kinesitherapie-soin-therapeutique/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.massotherapie-bienetre.com/soins/drainage-lymphatique/</loc>
+    <loc>https://kine-serenite.ca/soins/drainage-lymphatique/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.massotherapie-bienetre.com/soins/massage-femme-enceinte/</loc>
+    <loc>https://kine-serenite.ca/soins/massage-femme-enceinte/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>

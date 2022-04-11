@@ -1,4 +1,4 @@
-# massotherapie-bienetre-v2
+# kine-serenite
 
 ## Build Setup
 

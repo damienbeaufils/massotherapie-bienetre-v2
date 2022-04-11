@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.massotherapie-bienetre.com/sitemap.xml
+Sitemap: https://kine-serenite.ca/sitemap.xml

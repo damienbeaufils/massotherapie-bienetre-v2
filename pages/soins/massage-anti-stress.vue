@@ -205,7 +205,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://www.massotherapie-bienetre.com/soins/massage-anti-stress/',
+          href: 'https://kine-serenite.ca/soins/massage-anti-stress/',
         },
       ],
     }

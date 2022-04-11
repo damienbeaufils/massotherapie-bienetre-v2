@@ -263,7 +263,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://www.massotherapie-bienetre.com/soins/orthotherapie-kinesitherapie-soin-therapeutique/',
+          href: 'https://kine-serenite.ca/soins/orthotherapie-kinesitherapie-soin-therapeutique/',
         },
       ],
     }
