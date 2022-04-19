@@ -48,7 +48,7 @@ export default {
     ],
     script: [
       {
-        src: 'https://www.googletagmanager.com/gtag/js?id=G-698X13KBMJ',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-NX9KT965FE',
         async: true,
       },
       { src: '/js/gtag.js' },
