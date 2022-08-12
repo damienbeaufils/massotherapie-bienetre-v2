@@ -114,13 +114,16 @@
             <v-card flat :elevation="hover ? 12 : 0">
               <v-card-text class="custom-color-green--text">
                 <v-img
-                  src="/img/services/reflexologie_plantaire.jpg"
+                  src="/img/services/massage_tissus_profonds.jpg"
                   alt=""
                   class="d-flex rounded"
                   :aspect-ratio="1920 / 1280"
                 ></v-img>
 
-                <h3 class="mt-2">Réflexologie plantaire</h3>
+                <h3 class="mt-2">
+                  Massage des tissus profonds<br class="hidden-md-and-down" />
+                  (Deep Tissue)
+                </h3>
               </v-card-text>
             </v-card>
           </v-hover>

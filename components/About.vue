@@ -54,7 +54,8 @@
                 <u>Mes formations</u> : orthothérapie, kinésithérapie, massage
                 suédois, lomi-lomi, drainage lymphatique, soin anti-cellulite,
                 vacuothérapie (ventouses), massage adapté pour femme enceinte,
-                massage anti-stress, oncologie, réflexologie plantaire.
+                massage anti-stress, oncologie, réflexologie plantaire, massage
+                des tissus profonds (Deep Tissue).
               </p>
               <p class="font-italic">
                 Reçus disponibles en massothérapie, kinésithérapie et
