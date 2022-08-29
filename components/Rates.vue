@@ -14,25 +14,25 @@
             </v-card-title>
 
             <v-card-text class="custom-color-green--text justify-center">
-              <p class="font-weight-bold">Bureau 200 A</p>
+              <!-- <p class="font-weight-bold">Bureau 200 A</p> -->
               <address>
-                <p>810 Av Champagneur #200A, Montréal, QC H2V 1K5</p>
-                <p>
+                <p>2 Rue Beauregard, Clermont, QC G4A 0A2</p>
+                <!-- <p>
                   <img
                     src="/img/Montreal_Metro.svg"
                     alt=""
                     class="metro-logo"
                   />&nbsp;Outremont (3 minutes à pied du métro)
-                </p>
+                </p> -->
               </address>
 
               <span class="font-weight-bold">Horaires :</span>
               <ul class="no-bullets">
-                <li>Lundi - 10:00 à 19:30</li>
-                <li>Jeudi - 08:00 à 18:00</li>
+                <li>Vendredi - horaires à venir</li>
+                <li>Samedi - horaires à venir</li>
               </ul>
             </v-card-text>
-            <v-card-actions class="justify-center">
+            <!-- <v-card-actions class="justify-center">
               <v-btn
                 text
                 class="custom-color-grey black--text pa-sm-7 mb-2 font-weight-bold text-sm-h6 text-subtitle-2"
@@ -41,13 +41,13 @@
               >
                 Prendre rendez-vous
               </v-btn>
-            </v-card-actions>
+            </v-card-actions> -->
           </v-card>
         </v-col>
 
         <v-col cols="12" sm="6" class="map">
           <iframe
-            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCNsDQVC0fSNhGNPsppuAotr38HuU5Hgqk&q=Virginie Dang Massothérapeute, Kinésithérapeute, Orthothérapeute, 810 Av Champagneur #200A, Montréal, QC H2V 1K5, Canada"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCNsDQVC0fSNhGNPsppuAotr38HuU5Hgqk&q=2 Rue Beauregard, Clermont, QC G4A 0A2, Canada"
             frameborder="0"
             scrolling="no"
             width="100%"
