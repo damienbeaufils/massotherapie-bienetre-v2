@@ -10,7 +10,7 @@
             <v-card-title
               class="justify-center custom-color-green mx-5 mx-sm-15 white--text font-weight-bold card-header rounded py-2"
             >
-              Lundi & Jeudi
+              À determiner
             </v-card-title>
 
             <v-card-text class="custom-color-green--text justify-center">
@@ -28,8 +28,7 @@
 
               <span class="font-weight-bold">Horaires :</span>
               <ul class="no-bullets">
-                <li>Vendredi - horaires à venir</li>
-                <li>Samedi - horaires à venir</li>
+                <li>À determiner</li>
               </ul>
             </v-card-text>
             <!-- <v-card-actions class="justify-center">

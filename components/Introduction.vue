@@ -3,10 +3,11 @@
     <v-col cols="12">
       <v-card rounded>
         <v-card-text
-          class="custom-color-green--text custom-color-pink text-h6 text-sm-h5 text-center font-weight-bold"
+          class="red--text custom-color-pink text-h6 text-sm-h5 text-center font-weight-bold"
         >
-          Réouverture des réservations dans la région de Charlevoix-Est en
-          automne 2022 !
+          Déménagement dans la région de Charlevoix-Est en cours. Aucun
+          rendez-vous ne sera possible sur Montréal. Réouverture des
+          réservations à l'automne 2022 en Charlevoix-Est !
         </v-card-text>
       </v-card>
     </v-col>
