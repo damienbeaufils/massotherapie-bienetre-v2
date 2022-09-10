@@ -46,7 +46,7 @@
 
         <v-col cols="12" sm="6" class="map">
           <iframe
-            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCNsDQVC0fSNhGNPsppuAotr38HuU5Hgqk&q=2 Rue Beauregard, Clermont, QC G4A 0A2, Canada"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCNsDQVC0fSNhGNPsppuAotr38HuU5Hgqk&q=Virginie Dang Massothérapeute, Kinésithérapeute, Orthothérapeute, 2 Rue Beauregard, Clermont, QC G4A 0A2, Canada"
             frameborder="0"
             scrolling="no"
             width="100%"

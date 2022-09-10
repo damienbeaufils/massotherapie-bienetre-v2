@@ -35,10 +35,10 @@
       <v-btn
         text
         class="my-2 mx-sm-5 pa-0 custom-color-green--text"
-        href="tel:5146041223"
+        href="tel:4187901294"
       >
         <v-icon>mdi-phone</v-icon>
-        <small class="d-none d-sm-flex">&nbsp;514-604-1223</small>
+        <small class="d-none d-sm-flex">&nbsp;418-790-1294</small>
       </v-btn>
       <v-btn
         text
