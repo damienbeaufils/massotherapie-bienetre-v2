@@ -7,7 +7,7 @@
         >
           Déménagement dans la région de Charlevoix-Est en cours. Aucun
           rendez-vous ne sera possible sur Montréal. Réouverture des
-          réservations à l'automne 2022 en Charlevoix-Est !
+          réservations à l'hiver 2022-2023 en Charlevoix-Est !
         </v-card-text>
       </v-card>
     </v-col>
