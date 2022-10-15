@@ -14,34 +14,35 @@
               sur rendez-vous uniquement
             </v-card-title>
 
+            <v-card-subtitle class="custom-color-green--text text-center">
+              <span class="font-weight-bold">Tarifs :</span>
+              <ul class="no-bullets">
+                <li>60 minutes - 75 $ taxes incluses</li>
+                <li>75 minutes - 93,75 $ taxes incluses</li>
+                <li>90 minutes - 112,50 $ taxes incluses</li>
+              </ul>
+              <p class="font-italic mt-3">
+                Paiement par carte de débit, virement Interac ou argent comptant
+                sont préférables.
+              </p>
+            </v-card-subtitle>
+
             <v-card-text class="custom-color-green--text justify-center">
               <p class="font-weight-bold">
-                Pour un premier rendez-vous, svp téléphonez au 418-790-1294
+                Pour un premier rendez-vous, svp téléphonez au
+                <a href="tel:4187901294">418-790-1294</a>
               </p>
               <address>
-                <p>2 Rue Beauregard, Clermont, QC G4A 0A2</p>
-                <!-- <p>
-                  <img
-                    src="/img/Montreal_Metro.svg"
-                    alt=""
-                    class="metro-logo"
-                  />&nbsp;Outremont (3 minutes à pied du métro)
-                </p> -->
+                <p>2 rue Beauregard, Clermont, QC G4A&nbsp;0A2</p>
               </address>
-
-              <!--
-              <span class="font-weight-bold">Horaires :</span>
-              <ul class="no-bullets">
-                <li>À determiner</li>
-              </ul>
-              -->
             </v-card-text>
+
             <v-card-actions class="justify-center">
               <v-btn
                 text
                 class="custom-color-grey black--text pa-sm-7 mb-2 font-weight-bold text-sm-h6 text-subtitle-2"
-                href="tel:4187901294"
-                target="Pour un premier rendez-vous, svp téléphonez au 418-790-1294"
+                href="https://www.gorendezvous.com/virginiedang"
+                target="_blank"
               >
                 Prendre rendez-vous
               </v-btn>
@@ -72,9 +73,9 @@
   list-style-type: none;
 }
 
-.metro-logo {
-  max-width: 25px;
-  vertical-align: middle;
+a {
+  text-decoration: none;
+  color: unset;
 }
 
 address {

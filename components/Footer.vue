@@ -9,7 +9,7 @@
       >
         <v-icon>mdi-facebook</v-icon>
       </v-btn>
-      <!-- <v-btn
+      <v-btn
         text
         class="my-2 mx-sm-5 pa-0"
         href="https://www.gorendezvous.com/virginiedang"
@@ -21,7 +21,7 @@
           width="100"
           alt="Prendre un rendez-vous"
         ></v-img>
-      </v-btn> -->
+      </v-btn>
       <v-btn
         text
         class="my-2 mx-sm-5 pa-0 custom-color-green--text"
