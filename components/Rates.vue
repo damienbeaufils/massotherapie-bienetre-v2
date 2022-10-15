@@ -10,11 +10,14 @@
             <v-card-title
               class="justify-center custom-color-green mx-5 mx-sm-15 white--text font-weight-bold card-header rounded py-2"
             >
-              À determiner
+              Du lundi au vendredi,<br class="hidden-md-and-down" />
+              sur rendez-vous uniquement
             </v-card-title>
 
             <v-card-text class="custom-color-green--text justify-center">
-              <!-- <p class="font-weight-bold">Bureau 200 A</p> -->
+              <p class="font-weight-bold">
+                Pour un premier rendez-vous, svp téléphonez au 418-790-1294
+              </p>
               <address>
                 <p>2 Rue Beauregard, Clermont, QC G4A 0A2</p>
                 <!-- <p>
@@ -26,21 +29,23 @@
                 </p> -->
               </address>
 
+              <!--
               <span class="font-weight-bold">Horaires :</span>
               <ul class="no-bullets">
                 <li>À determiner</li>
               </ul>
+              -->
             </v-card-text>
-            <!-- <v-card-actions class="justify-center">
+            <v-card-actions class="justify-center">
               <v-btn
                 text
                 class="custom-color-grey black--text pa-sm-7 mb-2 font-weight-bold text-sm-h6 text-subtitle-2"
-                href="https://www.gorendezvous.com/virginiedang"
-                target="_blank"
+                href="tel:4187901294"
+                target="Pour un premier rendez-vous, svp téléphonez au 418-790-1294"
               >
                 Prendre rendez-vous
               </v-btn>
-            </v-card-actions> -->
+            </v-card-actions>
           </v-card>
         </v-col>
 

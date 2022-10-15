@@ -129,6 +129,7 @@
           </v-hover>
         </v-col>
 
+        <!--
         <v-col cols="12" sm="4">
           <v-hover v-slot="{ hover }">
             <v-card flat :elevation="hover ? 12 : 0">
@@ -145,6 +146,7 @@
             </v-card>
           </v-hover>
         </v-col>
+        -->
       </v-row>
     </v-card-text>
   </v-card>
