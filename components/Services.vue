@@ -111,7 +111,12 @@
 
         <v-col cols="12" sm="4">
           <v-hover v-slot="{ hover }">
-            <v-card flat :elevation="hover ? 12 : 0">
+            <v-card
+              flat
+              nuxt
+              to="/soins/massage-deep-tissue/"
+              :elevation="hover ? 12 : 0"
+            >
               <v-card-text class="custom-color-green--text">
                 <v-img
                   src="/img/services/massage_tissus_profonds.jpg"
