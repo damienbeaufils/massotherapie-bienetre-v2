@@ -30,7 +30,7 @@
       </v-btn>
 
       <v-btn text href="/#soins" class="mr-5 custom-color-green white--text">
-        Horaires & où me trouver
+        Horaires, tarifs & adresse
       </v-btn>
     </div>
     <v-menu>
@@ -58,7 +58,7 @@
         <v-list-item>
           <v-list-item-title>
             <v-btn text href="/#horaires" class="custom-color-green--text">
-              Horaires & où me trouver
+              Horaires, tarifs & adresse
             </v-btn>
           </v-list-item-title>
         </v-list-item>

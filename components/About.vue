@@ -63,7 +63,7 @@
               </p>
               <p>
                 <a
-                  href="https://rmpq.ca/repertoire-des-membres/montreal-rosemont-la-petite-patrie/virginie-dang-778809/"
+                  href="https://rmpq.ca/repertoire-des-membres/clermont/virginie-dang-778809/"
                   target="_blank"
                 >
                   <v-img

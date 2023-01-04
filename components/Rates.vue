@@ -1,7 +1,7 @@
 <template>
   <v-card id="horaires" class="text-center">
     <v-card-title class="custom-color-green white--text justify-center">
-      <h2 class="text-h5 text-sm-h4">Horaires & où me trouver</h2>
+      <h2 class="text-h5 text-sm-h4">Horaires, tarifs & adresse</h2>
     </v-card-title>
     <v-card-text class="custom-color-green--text">
       <v-row>
@@ -10,27 +10,51 @@
             <v-card-title
               class="justify-center custom-color-green mx-5 mx-sm-15 white--text font-weight-bold card-header rounded py-2"
             >
-              Du lundi au vendredi,<br class="hidden-md-and-down" />
-              sur rendez-vous uniquement
+              Sur rendez-vous uniquement
             </v-card-title>
 
             <v-card-subtitle class="custom-color-green--text text-center">
-              <span class="font-weight-bold">Tarifs :</span>
-              <ul class="no-bullets">
-                <li>60 minutes - 75 $ taxes incluses</li>
-                <li>75 minutes - 93,75 $ taxes incluses</li>
-                <li>90 minutes - 112,50 $ taxes incluses</li>
-              </ul>
-              <p class="font-italic mt-3">
-                Paiement par carte de débit, virement Interac ou argent comptant
-                sont préférables.
-              </p>
+              <div>
+                <span class="font-weight-bold text-decoration-underline"
+                  >Horaires :</span
+                >
+                <ul class="no-bullets">
+                  <li class="font-weight-bold">
+                    Du lundi au vendredi sur rendez-vous
+                  </li>
+                  <li>Samedi et dimanche possibles sur demande</li>
+                </ul>
+              </div>
+
+              <div class="mt-3">
+                <span class="font-weight-bold text-decoration-underline"
+                  >Tarifs :</span
+                >
+                <ul class="no-bullets">
+                  <li>60 minutes - 75 $ taxes incluses</li>
+                  <li>75 minutes - 93,75 $ taxes incluses</li>
+                  <li>90 minutes - 112,50 $ taxes incluses</li>
+                </ul>
+              </div>
+              <div class="mt-3">
+                <span class="font-weight-bold text-decoration-underline"
+                  >Modes de paiement :</span
+                >
+
+                <p>
+                  Paiement par carte de débit, virement Interac ou argent
+                  comptant sont préférables. Carte de crédit également acceptée.
+                </p>
+              </div>
             </v-card-subtitle>
 
             <v-card-text class="custom-color-green--text justify-center">
               <p class="font-weight-bold">
                 Pour un premier rendez-vous, svp téléphonez au
-                <a href="tel:4187901294">418-790-1294</a>
+                <a href="tel:4187901294">418-790-1294</a> ou
+                <a href="mailto:virginiedang.massotherapeute@gmail.com"
+                  >contactez-moi par courriel</a
+                >
               </p>
               <address>
                 <p>2 rue Beauregard, Clermont, QC G4A&nbsp;0A2</p>
