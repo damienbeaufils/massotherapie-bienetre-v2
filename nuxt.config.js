@@ -1,7 +1,7 @@
 const TITLE =
   'Virginie Dang | Masso-kinésithérapeute & Orthothérapeute | Clermont, Charlevoix'
 const DESCRIPTION =
-  'Massage anti-stress, Orthothérapie, Kinésithérapie, Drainage lymphatique, Massage pour femme enceinte, Massage des tissus profonds (Deep Tissue), Soin thérapeutique'
+  'Massage des tissus profonds (Deep Tissue), Massage anti-stress, Drainage lymphatique, Orthothérapie, Kinésithérapie, Massage pour femme enceinte, Soin thérapeutique'
 const LANG = 'fr'
 
 export default {
