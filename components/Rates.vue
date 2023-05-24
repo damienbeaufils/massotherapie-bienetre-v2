@@ -31,9 +31,9 @@
                   >Tarifs :</span
                 >
                 <ul class="no-bullets">
-                  <li>60 minutes - 75 $ taxes incluses</li>
-                  <li>75 minutes - 90 $ taxes incluses</li>
-                  <li>90 minutes - 110 $ taxes incluses</li>
+                  <li>60 minutes - 75 $</li>
+                  <li>75 minutes - 90 $</li>
+                  <li>90 minutes - 110 $</li>
                 </ul>
               </div>
               <div class="mt-3">
