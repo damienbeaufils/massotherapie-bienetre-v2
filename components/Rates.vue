@@ -22,7 +22,7 @@
                   <li class="font-weight-bold">
                     Du lundi au vendredi sur rendez-vous
                   </li>
-                  <li>Samedi et dimanche possibles sur demande</li>
+                  <li>Pas de rendez-vous de dernière minute</li>
                 </ul>
               </div>
 
