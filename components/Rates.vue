@@ -33,7 +33,6 @@
                 <ul class="no-bullets">
                   <li>60 minutes - 75 $</li>
                   <li>75 minutes - 90 $</li>
-                  <li>90 minutes - 110 $</li>
                 </ul>
               </div>
               <div class="mt-3">
