@@ -46,13 +46,6 @@ export default {
       { rel: 'manifest', href: '/site.webmanifest' },
       { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color: '#4d8591' },
     ],
-    script: [
-      {
-        src: 'https://www.googletagmanager.com/gtag/js?id=G-NX9KT965FE',
-        async: true,
-      },
-      { src: '/js/gtag.js' },
-    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
