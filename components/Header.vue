@@ -20,7 +20,7 @@
 
     <v-spacer></v-spacer>
 
-    <div class="d-none d-sm-none d-md-flex">
+    <div class="d-none d-sm-none d-md-none d-lg-flex">
       <v-btn text href="/#mission" class="mr-5 custom-color-green white--text">
         Ma mission
       </v-btn>
@@ -32,10 +32,19 @@
       <v-btn text href="/#soins" class="mr-5 custom-color-green white--text">
         Horaires, tarifs & adresse
       </v-btn>
+
+      <v-btn
+        text
+        nuxt
+        to="/politiques-annulation-confidentialite/"
+        class="custom-color-green white--text"
+      >
+        Politiques d’annulation et de confidentialité
+      </v-btn>
     </div>
     <v-menu>
       <template #activator="{ on, attrs }">
-        <v-btn icon v-bind="attrs" class="d-flex d-md-none" v-on="on">
+        <v-btn icon v-bind="attrs" class="d-flex d-lg-none" v-on="on">
           <v-icon>mdi-menu</v-icon>
         </v-btn>
       </template>
@@ -59,6 +68,18 @@
           <v-list-item-title>
             <v-btn text href="/#horaires" class="custom-color-green--text">
               Horaires, tarifs & adresse
+            </v-btn>
+          </v-list-item-title>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-title>
+            <v-btn
+              text
+              nuxt
+              to="/politiques-annulation-confidentialite/"
+              class="custom-color-green--text"
+            >
+              Politiques d’annulation<br />et de confidentialité
             </v-btn>
           </v-list-item-title>
         </v-list-item>
