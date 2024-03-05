@@ -22,7 +22,7 @@
               Passé à
               <b
                 >moins de 24h du rendez-vous, des frais de 50% du prix vous
-                seront demandés</b
+                seront demandés avant de pouvoir prendre un autre rendez-vous</b
               >.
             </li>
             <li>
