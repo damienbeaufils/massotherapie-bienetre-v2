@@ -20,7 +20,10 @@
                 >
                 <ul class="no-bullets">
                   <li class="font-weight-bold">
-                    Du lundi au vendredi sur rendez-vous
+                    Mardi - 13h00 à 19h45 (dernier massage à 18h45)
+                  </li>
+                  <li class="font-weight-bold">
+                    Vendredi - 09h00 à 12h00, un vendredi sur deux
                   </li>
                   <li>Pas de rendez-vous de dernière minute</li>
                 </ul>
