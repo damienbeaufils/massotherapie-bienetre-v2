@@ -35,6 +35,10 @@
                 >
                 <ul class="no-bullets">
                   <li>60 minutes - 75 $</li>
+                  <li class="font-italic">
+                    mise à jour tarifaire au 1er octobre 2024 : le soin passera
+                    à <span class="font-weight-bold">80 $</span>
+                  </li>
                 </ul>
               </div>
               <div class="mt-3">
@@ -89,6 +93,8 @@
     </v-card-text>
   </v-card>
 </template>
+
+<script lang="ts"></script>
 
 <style scoped>
 .no-bullets {
