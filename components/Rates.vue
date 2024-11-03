@@ -20,7 +20,7 @@
                 >
                 <ul class="no-bullets">
                   <li class="font-weight-bold">
-                    Mardi - 13h00 à 19h45 (dernier massage à 18h45)
+                    Mardi - 13h00 à 19h30 (dernier massage à 18h30)
                   </li>
                   <li class="font-weight-bold">
                     Vendredi - 09h00 à 12h00, un vendredi sur deux
@@ -34,11 +34,7 @@
                   >Tarifs :</span
                 >
                 <ul class="no-bullets">
-                  <li>60 minutes - 75 $</li>
-                  <li class="font-italic">
-                    mise à jour tarifaire au 1er octobre 2024 : le soin passera
-                    à <span class="font-weight-bold">80 $</span>
-                  </li>
+                  <li>60 minutes - 80 $</li>
                 </ul>
               </div>
               <div class="mt-3">
