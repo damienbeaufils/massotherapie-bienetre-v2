@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/politiques-annulation-confidentialite", {data:[{}],fetch:{},mutations:void 0});

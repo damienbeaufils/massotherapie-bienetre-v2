@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/soins/massage-deep-tissue", {data:[{}],fetch:{},mutations:void 0});

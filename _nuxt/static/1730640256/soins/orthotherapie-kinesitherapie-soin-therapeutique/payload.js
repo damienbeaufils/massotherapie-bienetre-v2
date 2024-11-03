@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/soins/orthotherapie-kinesitherapie-soin-therapeutique", {data:[{}],fetch:{},mutations:void 0});
